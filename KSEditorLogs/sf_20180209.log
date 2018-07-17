@@ -1,0 +1,14 @@
+2018-02-09 21:53:14.1346 [DEBUG] Scene Fusion version 1.7.2-0
+2018-02-09 21:53:14.1546 [INFO] Setting define symbol SCENE_FUSION
+2018-02-09 21:53:18.1715 [DEBUG] Scene Fusion version 1.7.2-0
+2018-02-09 21:53:23.6043 [DEBUG] Invalid token sent as part of a web request token. Token = ZCH663aecMoHMxZPOT7Yie0gmgtAuhMctlhTDIZeWFQlTusEY6hbG7sqiDKWgzmiT3yXhCf8b9AkgC9cJKg8OhpgZCZEkh0kn60EthEOk1uMuo0jyOGGwqNkxuulCpTfeFwa8fniWb3KK4tdW3YPmYufb6f84WSWgJlf46ZrfXwOBS0nBUcZLgm9lAiipBWknGWItoputhCfc9pRoS6AaxIXu6LplnI71OLw53cYanXeeuA4b4TGKbz1pIqSfAj
+2018-02-09 21:53:32.3726 [INFO] Launching Scene: Untitled
+2018-02-09 21:53:32.9503 [DEBUG] Connecting
+2018-02-09 21:53:32.9703 [DEBUG] Connecting to room (57550:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1025
+2018-02-09 21:55:10.3251 [DEBUG] Sent C:/Users/Evan.JUNKRAT/Desktop/newwillme/KSEditorLogs/SessionLogs/session.57550-636538100129758697.log
+2018-02-09 21:55:24.1282 [DEBUG] Connecting
+2018-02-09 21:55:24.1342 [DEBUG] Connecting to room (57550:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1025
+2018-02-09 21:55:53.7095 [DEBUG] Sent C:/Users/Evan.JUNKRAT/Desktop/newwillme/KSEditorLogs/SessionLogs/session.57550-636538101241377820.log
+2018-02-09 21:55:56.5036 [INFO] Launching Scene: reee
+2018-02-09 21:55:57.0917 [DEBUG] Connecting
+2018-02-09 21:55:57.0992 [DEBUG] Connecting to room (57551:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1027
